@@ -4,7 +4,7 @@ AI/ML Engineer specializing in Generative AI and Computer Vision with strong sof
 
 🚀 About Me
 🌍 I'm actually from Ongole, Andhra Pradesh, India
-🎓 B.Tech computer science engineering @ Mohan Babu University | CGPA: 8.69
+🎓 B.Tech computer science engineering @ Mohan Babu University | CGPA: 8.93
 🌐 See my portfolio at github.com/nishikagutthikonda
 📧 You can contact me at 22102a040804@mbu.asia
 💡 I'm learning Large Language Model fine-tuning, Generative AI, and Advanced prompt engineering techniques
